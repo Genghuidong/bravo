@@ -1,0 +1,26 @@
+<view class="box">
+  <view class="img">
+    <image src="https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3515091220,582325974&fm=26&gp=0.jpg"></image>
+  </view>
+  <view class="text">
+    <view>影片名称：钢铁侠1</view>
+    <view>评分：9.8分</view>
+    <view>评论数：99</view>
+  </view>
+</view>
+
+<view class='item'>
+    <view class='title_tip'>评论</view>
+    <view class='username_txt'>
+      <input type='text' class='user_txt' placeholder='请输入评论内容'  placeholder-class='input_style'/>
+      <button>发表评论</button>
+    </view>
+</view>
+<view class="text">
+  评论列表
+  <view>神作很好看</view>
+  <view>好评！强烈推荐！</view>
+  <view>还行吧</view>
+</view>
+
+

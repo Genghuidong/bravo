@@ -1,0 +1,13 @@
+<view class="top">
+  <view class="hot">影院热映</view>
+  <view class="more">查看更多></view>
+</view>
+
+<view class="imgs">
+  <view class="img">
+    <image src="https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3515091220,582325974&fm=26&gp=0.jpg" ></image>
+    <image src="https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3515091220,582325974&fm=26&gp=0.jpg"></image>
+    <image src="https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3515091220,582325974&fm=26&gp=0.jpg"></image>
+    <image src="https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3515091220,582325974&fm=26&gp=0.jpg"></image>
+  </view>
+</view>

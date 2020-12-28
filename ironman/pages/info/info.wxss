@@ -1,0 +1,27 @@
+.box{
+  width: 650rpx;
+  height: 350rpx;
+  /* background: chartreuse; */
+  margin-top: 50rpx;
+  margin-left: 50rpx;
+}
+.img{
+ width: 250rpx;
+ height: 300rpx;
+ float: left;
+}
+.img image{
+  width: 250rpx;
+  height: 300rpx;
+  border-radius: 10rpx;
+}
+.text{
+  float: left;
+  width: 400rpx;
+  height: 300rpx;
+  /* background: red; */
+}
+.text view{
+  margin-top: 50rpx;
+  padding-left: 20rpx;
+}
